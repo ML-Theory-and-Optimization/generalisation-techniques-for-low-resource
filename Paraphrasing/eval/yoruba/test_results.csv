@@ -1,0 +1,4 @@
+Language,Train Dataset,Test Dataset,Accuracy
+Yoruba,Original,Test Set,0.591
+Yoruba,Paraphrased,Test Set,0.571
+Yoruba,Combined,Test Set,0.581
